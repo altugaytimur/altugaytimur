@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altug Aytimur</h1>
 <h3 align="center">Full Stack .NET Developer</h3>
 
-- 🔭 I’m currently working on **Store X**
-
-- 🌱 I’m currently learning **Angular,Typescript**
-
 - 📫 How to reach me **aytimuraltug@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
