@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Altug Aytimur</h1>
-<h3 align="center">Full Stack .NET Developer</h3>
+<h1 align="center">Hi, I'm Altug Aytimur</h1>
+<h3 align="center">Full Stack .NET Developer,GIS Software Developer</h3>
 
 - 📫 How to reach me **aytimuraltug@gmail.com**
 
